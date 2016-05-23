@@ -417,6 +417,12 @@
 	height: 14px;
 }
 
-.datetimepicker-hours{
-	width: 197px;
+
+.datetimepicker{
+	width: 210px;
+}
+
+.datetimepicker table tr td,
+.datetimepicker table tr th{
+	white-space: nowrap;
 }
